@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b2dba54-3341-4bf5-b967-94cd44b740d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,9 @@
     <option name="myCommands">
       <command value="mvn test" />
       <command value="mvn verify" />
-      <command value="mvn test verify" />
       <command value="mvn clean test" />
       <command value="mvn clean verify" />
+      <command value="mvn test verify" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.RadioTest.test">
